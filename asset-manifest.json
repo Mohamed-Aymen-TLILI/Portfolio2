@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Portfolio2/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Portfolio2/static/js/main.1ba997f2.chunk.js",
+    "main.js.map": "/Portfolio2/static/js/main.1ba997f2.chunk.js.map",
+    "runtime-main.js": "/Portfolio2/static/js/runtime-main.d4c975ab.js",
+    "runtime-main.js.map": "/Portfolio2/static/js/runtime-main.d4c975ab.js.map",
+    "static/js/2.e4bef964.chunk.js": "/Portfolio2/static/js/2.e4bef964.chunk.js",
+    "static/js/2.e4bef964.chunk.js.map": "/Portfolio2/static/js/2.e4bef964.chunk.js.map",
+    "index.html": "/Portfolio2/index.html",
+    "precache-manifest.54568354a1a34c44aef60abb55c63244.js": "/Portfolio2/precache-manifest.54568354a1a34c44aef60abb55c63244.js",
+    "service-worker.js": "/Portfolio2/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Portfolio2/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e4bef964.chunk.js.LICENSE.txt": "/Portfolio2/static/js/2.e4bef964.chunk.js.LICENSE.txt",
+    "static/media/angular.svg": "/Portfolio2/static/media/angular.abfc3b93.svg",
+    "static/media/css.svg": "/Portfolio2/static/media/css.6971ddc7.svg",
+    "static/media/flutter.svg": "/Portfolio2/static/media/flutter.faf8f499.svg",
+    "static/media/microsoft.svg": "/Portfolio2/static/media/microsoft.f32b3f89.svg",
+    "static/media/nodejs.svg": "/Portfolio2/static/media/nodejs.a1231528.svg",
+    "static/media/php.svg": "/Portfolio2/static/media/php.7634d1a3.svg",
+    "static/media/profile.jpg": "/Portfolio2/static/media/profile.7a4e1c77.jpg",
+    "static/media/react.svg": "/Portfolio2/static/media/react.c3fbd71b.svg",
+    "static/media/sass.svg": "/Portfolio2/static/media/sass.b446ca5a.svg",
+    "static/media/svg-1.svg": "/Portfolio2/static/media/svg-1.532cde0d.svg",
+    "static/media/svg-2.svg": "/Portfolio2/static/media/svg-2.59389695.svg",
+    "static/media/svg-3.svg": "/Portfolio2/static/media/svg-3.d11196fd.svg",
+    "static/media/svg-4.svg": "/Portfolio2/static/media/svg-4.163d261b.svg",
+    "static/media/symfony.svg": "/Portfolio2/static/media/symfony.ed9c8446.svg",
+    "static/media/video.mp4": "/Portfolio2/static/media/video.0e7ef2c1.mp4",
+    "static/media/vue.svg": "/Portfolio2/static/media/vue.69cedcf3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4c975ab.js",
+    "static/js/2.e4bef964.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.1ba997f2.chunk.js"
+  ]
+}
